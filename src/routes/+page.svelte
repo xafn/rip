@@ -56,9 +56,6 @@
 		margin-top: -0.25rem;
 	}
 
-	h4 {
-		margin-bottom: 0.4rem;
-	}
 
 	span {
 		color:var(--yellow);
@@ -100,7 +97,7 @@
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
-		gap: 0.25rem;
+		gap: 0.75rem;
 	}
 
 
